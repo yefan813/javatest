@@ -18,5 +18,7 @@ public class TestInteger {
 		ArrayList<String> list;
 		Arrays.asList("aa","nn");
 		HashMap<String, Object> map;
+		
+		String testString;
 	}
 }
